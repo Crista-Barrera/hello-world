@@ -6,3 +6,5 @@ Este es un repositorio inicial de Git
 1. Optimización
 2. Montecarlo
 Ecuaciones diferenciales
+
+## Este documento tambien contiene lista de despensa
